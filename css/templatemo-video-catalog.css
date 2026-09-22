@@ -365,6 +365,9 @@ h2, p { color: #b7b7b7; }
 .tm-fixed-header-3 { background-image: url(../img/contact-1.jpg); }
 .tm-fixed-header-4 { background-image: url(../img/video-detail-2.jpg); }
 .tm-fixed-header-5 { background-image: url(../img/video-detail-3.jpg); }
+.tm-fixed-header-6 { background-image: url(../img/video-detail-4.gif); }
+.tm-fixed-header-7 { background-image: url(../img/video-detail-5.gif); }
+
 
 video {
   width: 100%;
@@ -572,7 +575,6 @@ video {
     text-align: center;
     margin: 0 auto;
     padding: 20px;
-    text-transform: uppercase;
     letter-spacing: 4px;
     text-shadow: 0 4px 15px rgba(0, 0, 0, 0.7);
 }
