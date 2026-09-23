@@ -348,7 +348,7 @@ h2, p { color: #b7b7b7; }
 }
 
 .tm-likes-box { padding-top: 12px; }
-.tm-video-description-box { max-width: 920px; }
+.tm-video-description-box { max-width: 2500px; }
 .tm-text-gray { color: #6F7071; }
 
 .tm-fixed-header {
@@ -419,6 +419,10 @@ video {
 .form-control {
     font-size: 1.2rem;
     padding: 21px 25px;
+}
+
+.p {
+    max-width: 95%;
 }
 
 .form-group {
